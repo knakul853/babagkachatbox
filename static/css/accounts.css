@@ -1,0 +1,14 @@
+
+
+.logo{
+font-family:'peralta', cursive;
+
+}
+.logo a{
+color: rgba(0,9,0,9);
+}
+
+.logo a:hover,
+.logo a:active{
+text-decoration: solid;
+}
