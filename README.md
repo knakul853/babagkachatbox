@@ -2,8 +2,12 @@
 **Django Project**
 
 
-**BABAJI KA CHATBOX**
+**BABAGKACHATBOX**
 
+**Introduction**
+This web application creates a very basic chatbox using Django. Furthermore, the site allows authors to chat using the admin site, and any logged in user can add comments via a form. Any user can list all people, all chatters and Chats (including comments for each blog).
+The link to the web app can be found below.
+<br>
 
-This web application creates a very basic chatbox using Django. The site allows  authors to Chat using the Admin site, and any logged in user to add comments via a form. Any user can list all people, all chatters  and Chats (including comments for each blog).
-link :https://babagkachatbox.herokuapp.com/
+[BABAGKACHATBOX](https://babagkachatbox.herokuapp.com/)
+</br>
