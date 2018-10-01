@@ -1,9 +1,19 @@
-
-**Django Project**
-
-
 **BABAJI KA CHATBOX**
 
+This is a basic chat box/forum made with Django.
 
-This web application creates a very basic chatbox using Django. The site allows  authors to Chat using the Admin site, and any logged in user to add comments via a form. Any user can list all people, all chatters  and Chats (including comments for each blog).
-link :https://babagkachatbox.herokuapp.com/
+# Features
+
+- Login and Registration system.
+- Allows users to chat with each other in boards.
+- Users can create posts in forum boards and chat with each other inside the posts using comments.
+- Users have their own profiles that contain the posts they made.
+- Posts can be edited.
+
+# Contributing
+
+Create an [Issue](https://github.com/knakul853/babagkachatbox/issues) or a [Pull Request](https://github.com/knakul853/babagkachatbox/pulls).
+
+# Demo
+
+https://babagkachatbox.herokuapp.com/
