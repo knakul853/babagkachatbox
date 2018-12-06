@@ -14,27 +14,27 @@ This is a basic chat box/forum made with Django.
 
 Create an [Issue](https://github.com/knakul853/babagkachatbox/issues) or a [Pull Request](https://github.com/knakul853/babagkachatbox/pulls).
 
-**Running the Project Locally**
+# Running the Project Locally
 
-# First, clone the repository to your local machine:
+**First, clone the repository to your local machine:**
 
 '''git clone git@github.com:sibtc/django-beginners-guide.git'''
 
-# Install the requirements:
+**Install the requirements:**
 
-'''pip install -r requirements.txt'''
+pip install -r requirements.txt
 
-# Setup the local configurations:
+**Setup the local configurations:**
 
-'''cp .env.example .env'''
+cp .env.example .env
 
-# Create the database:
+**Create the database:**
 
-'''python manage.py migrate'''
+python manage.py migrate
 
-# Finally, run the development server:
+**Finally, run the development server:**
 
-'''python manage.py runserver'''
+''' python manage.py runserver '''
 
 The project will be available at 127.0.0.1:8000.
 
