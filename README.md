@@ -18,7 +18,7 @@ Create an [Issue](https://github.com/knakul853/babagkachatbox/issues) or a [Pull
 
 **First, clone the repository to your local machine:**
 
-```git clone git@github.com:sibtc/django-beginners-guide.git```
+```git clone https://github.com/knakul853/babagkachatbox.git```
 
 **Install the requirements:**
 
