@@ -6,9 +6,10 @@ This is a basic chat box/forum made with Django.
 
 - Login and Registration system.
 - Allows users to chat with each other in boards.
-- Users can create posts in forum boards and chat with each other inside the posts using comments.
+- Users can create posts in forum boards and chat with each other inside the posts using reply option.
 - Users have their own profiles that contain the posts they made.
 - Posts can be edited.
+- Views can be counted for topics.
 
 # Contributing
 
@@ -20,17 +21,14 @@ Create an [Issue](https://github.com/knakul853/babagkachatbox/issues) or a [Pull
 
 ```git clone https://github.com/knakul853/babagkachatbox.git```
 
+**Enter into directory:**
+
+```cd babagkachatbox```
+
 **Install the requirements:**
 
 ```pip install -r requirements.txt```
 
-**Setup the local configurations:**
-
-```cp .env.example .env```
-
-**Create the database:**
-
-```python manage.py migrate```
 
 **Finally, run the development server:**
 
