@@ -11,10 +11,10 @@
 - Allows users to chat with each other in boards.
 - Users can create posts in forum boards and chat with each other inside the posts using   comments.
 - Users can create their own profiles which will contain the posts they posted.
--Awesome platform to discuss on certain topics and to take views of all people
--Posts can be edited.
--Create topics inside sections to discuss about various subtopics related to some event/section.
--Keep track of topics being most discussed by using the option of Last Post.
+- Awesome platform to discuss on certain topics and to take views of all people
+- Posts can be edited.
+- Create topics inside sections to discuss about various subtopics related to some event/section.
+- Keep track of topics being most discussed by using the option of Last Post.
 
 ![screenshot 2018-12-11 at 11 22 14 am](https://user-images.githubusercontent.com/43112279/49783155-e6655380-fd3e-11e8-9964-930a0ca51bfa.jpeg)
 
