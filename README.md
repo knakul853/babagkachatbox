@@ -43,3 +43,15 @@ The project will be available at
 # Demo
 
 https://babagkachatbox.herokuapp.com/
+
+#demo images
+
+**HOME SCREEN**
+![alt home](https://github.com/shellkore/babagkachatbox/blob/master/demo_images/Sign%20up.png)
+
+**SIGN UP**
+![alt signup](https://github.com/shellkore/babagkachatbox/blob/master/demo_images/Sign%20up.png)
+
+**NEW TOPIC**
+![alt new_topic](https://github.com/shellkore/babagkachatbox/blob/master/demo_images/Start%20a%20New%20Topic.png)
+
