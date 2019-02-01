@@ -44,9 +44,9 @@ The project will be available at
 
 https://babagkachatbox.herokuapp.com/
 
-#demo images
+# demo images
 
-** HOME SCREEN **
+**HOME SCREEN**
 ![alt text](https://i.imgur.com/Gqeryid.jpg)
 
 
