@@ -46,15 +46,7 @@ https://babagkachatbox.herokuapp.com/
 
 #demo images
 
-**HOME SCREEN**
+** HOME SCREEN **
 ![alt text](https://i.imgur.com/Gqeryid.jpg)
 
-
-![alt text](http://picsum.photos/200/200)
-
-**SIGN UP**
-![alt signup](https://github.com/shellkore/babagkachatbox/blob/master/demo_images/Sign%20up.png)
-
-**NEW TOPIC**
-![alt new_topic](https://github.com/shellkore/babagkachatbox/blob/master/demo_images/Start%20a%20New%20Topic.png)
 
